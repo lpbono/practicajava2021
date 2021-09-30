@@ -1,0 +1,2 @@
+module practicasjava2021 {
+}
